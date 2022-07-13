@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\regex"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "repo04"
+	}
+}
